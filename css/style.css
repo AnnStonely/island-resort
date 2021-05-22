@@ -36,3 +36,9 @@ a{
     width: 50%;
 
   }
+  li{
+    font-size: 25px;
+    display:table;
+    margin:0px auto 0px auto;;
+  }
+  
