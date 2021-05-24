@@ -15,7 +15,7 @@ This is a great project as it has multiple pages to mess around with. I learn ho
 
 ## Setup /Installation Requirements
 
-* There is no set up required. Simply access AnnStonely.github.io/island-resort in your browser to read about how interesting life with a tortoise is.
+* This page will need to be cloned from https://github.com/AnnStonely/island-resort once you have it on your desktop you can open the branching-website file in your browser.
 
 ## Known Bugs
 
